@@ -1,0 +1,15 @@
+/* HELPERS */
+@import 'helpers/mixins';
+@import 'helpers/base';
+@import 'helpers/forms';
+
+
+/* PARTIALS */
+@import 'partials/header';
+@import 'partials/nav';
+@import 'partials/boards';
+@import 'partials/about-us';
+@import 'partials/our-team';
+@import 'partials/latest-update';
+@import 'partials/instagram';
+@import 'partials/footer';
